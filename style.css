@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.haywhy{
+    background-color: red;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.haywhy:hover{
+    background-color: blue;
+    color: yellow;
+}

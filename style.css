@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+.btn-tao{
+        background: linear-gradient(45deg, #6a11cb,RED); 
+    color: white; 
+    
+    padding: 12px 24px; 
+    font-size: 16px; 
+    font-weight: bold;
+    
+    border: none; 
+    border-radius: 8px; 
+    
+    cursor: pointer; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.btn-tao:hover {
+    transform: translateY(-2px); 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+    background: linear-gradient(45deg, #7a22db, orange
+    ); 
+}
+
+.btn-tao:active {
+    transform: translateY(0); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}

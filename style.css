@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.boy{
+    background-color: aqua;
+    color: white;
+}
+
+.boy:hover{
+    background-color: yellow;
+    color: white;
+}

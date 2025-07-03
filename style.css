@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 .boy{
     background-color: aqua;
     color: white;
@@ -12,4 +13,18 @@
 .boy:hover{
     background-color: yellow;
     color: white;
+=======
+.haywhy{
+    background-color: red;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.haywhy:hover{
+    background-color: blue;
+    color: yellow;
+>>>>>>> bcfb711d65f860722621a9eff1c3afc999707a8f
 }
